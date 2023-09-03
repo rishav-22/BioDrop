@@ -1,0 +1,19 @@
+{
+  "name": "Rishav Kuchiya",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Devops and Cloud Enthuthiast || 2 x Microsoft Certified || MLSA'2023",
+  "avatar": "https://github.com/rishav-22.png",
+  "links": [
+    {
+      "name": "Follow me on LinkdIn",
+      "url": "https://www.linkedin.com/in/rishavk22/",
+      "icon": "FaLinkedin"
+    }
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://instagram.com/rishavv_22?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==",
+      "icon": "FaInstagram"
+    }
+  ]
+}
